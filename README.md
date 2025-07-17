@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcpflow-mcp-server-peakmojo-badge.png)](https://mseep.ai/app/mcpflow-mcp-server-peakmojo)
+
 # PeakMojo Server
 
 [![Docker Hub](https://img.shields.io/docker/v/peakmojo/mcp-server-peakmojo?label=Docker%20Hub)](https://hub.docker.com/r/peakmojo/mcp-server-peakmojo)
